@@ -1,0 +1,10 @@
+nav.navbar.navbar-default
+  .container-fluid
+    .navbar-header
+      a.navbar-brand Notekat
+
+h1 Test
+p
+  == outlet
+
+p Test
